@@ -136,7 +136,7 @@
           <tr><th>Gentilicio</th><td>Aguadapableros</td></tr>
           <tr><th>Actividades</th><td>Pesca artesanal, comercio local, agricultura</td></tr>
           <tr><th>Colores representativos</th><td>Colores azul rey, blanco y rojo · Árbol de Ceiba</td></tr>
-          <tr><th>Declaración</th><td> Alexandra te amoooo att Nayith</th><td>
+          <tr><th>Declaración</th><td> Alexandra te amoooo att Nayith<td></tr>
         </table>
         <p style="margin:10px 0 0;font-size:14px;color:#475569">
           *Contenido editable; agrega datos oficiales cuando los tengas.
